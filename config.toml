@@ -16,11 +16,11 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Duane Stanford"
+    author = "Pope Amanda"
     description = "The Official Pope Amanda Site"
     keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
-    avatarurl = "images/avatar.jpg"
+    info = "By Duane Stanford"
+    avatarurl = "images/avatar.png"
     footercontent = "Enter a text here."
 
     dateformat = "January 2, 2006"
